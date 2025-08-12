@@ -51,11 +51,6 @@ enableRobotsTXT = true
         name = "Blog"
         pageRef = "/blog/"
         weight = 5
-    [[menu.main]]
-        name = "RSS"
-        url = "index.xml"
-        weight = 6
-
 
 [params]
   # The description of your website
@@ -107,3 +102,8 @@ enableRobotsTXT = true
   [params.author]
     name = "John Doe" # Your name as shown in the RSS feed metadata
     email = "me@example.com" # Added to the footer so readers can reply to posts
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images
