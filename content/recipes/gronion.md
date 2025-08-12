@@ -1,7 +1,7 @@
 +++
 title = 'Gronion'
 date = 2025-08-12T14:55:29-05:00
-draft = true
+draft = false
 +++
 This is *loosly* based off shoyu ramen, which is made with a light, soy sauce-based broth. Gronion means green onion or spring onion. 
 

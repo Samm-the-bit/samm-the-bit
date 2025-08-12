@@ -1,7 +1,7 @@
 +++
 title = 'Veggiestew'
 date = 2025-08-12T14:55:48-05:00
-draft = true
+draft = false
 +++
 Veggie stew:
 
