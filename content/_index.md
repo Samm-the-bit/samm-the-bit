@@ -1,10 +1,9 @@
-+++
-title = 'Howdy'
-date = 2025-08-12T14:55:29-05:00
-draft = false
-+++
-
-
+---
+title: "Home"
+menu: "main"
+weight: 1
+---
+# Howdy!
 <!-- Howdy, my main interests are... my hobbies are...-->
 I'm Sam Ward, an undergraduate math major at UT Austin. I am currently enjoying studying Algebraic Geometry and Algebraic Topology. I am currently not enjoying studying for the GRE and Math GRE. (I graduate spring 2026). 
 

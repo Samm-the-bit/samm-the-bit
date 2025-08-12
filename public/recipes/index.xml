@@ -1,23 +1,107 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Recipes on Bear Cub</title>
+    <title>Recipes on Sam&#39;s Blog</title>
     <link>http://localhost:1313/recipes/</link>
-    <description>Recent content in Recipes on Bear Cub</description>
+    <description>Recent content in Recipes on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <managingEditor>me@example.com (John Doe)</managingEditor>
-    <webMaster>me@example.com (John Doe)</webMaster>
-    <copyright>John Doe (CC BY 4.0)</copyright>
-    <lastBuildDate>Tue, 12 Aug 2025 14:08:11 -0500</lastBuildDate>
+    <managingEditor>samanthagward@gmail.com (Samantha Ward)</managingEditor>
+    <webMaster>samanthagward@gmail.com (Samantha Ward)</webMaster>
+    <copyright>Samantha Ward (CC BY 4.0)</copyright>
+    <lastBuildDate>Tue, 12 Aug 2025 14:55:48 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Food</title>
-      <link>http://localhost:1313/recipes/food/</link>
-      <pubDate>Tue, 12 Aug 2025 14:08:11 -0500</pubDate><author>me@example.com (John Doe)</author>
-      <guid>http://localhost:1313/recipes/food/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <title>Veggie Stew</title>
+      <link>http://localhost:1313/recipes/veggiestew/</link>
+      <pubDate>Tue, 12 Aug 2025 14:55:48 -0500</pubDate><author>samanthagward@gmail.com (Samantha Ward)</author>
+      <guid>http://localhost:1313/recipes/veggiestew/</guid>
+      <description>&lt;p&gt;Veggie stew:&lt;/p&gt;&#xA;&lt;p&gt;Ingredients:&#xA;(There should be a roughly even amount of each veggie)&#xA;(I do not measure the spices. You should add as much as your soul asks of you.)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 carton veggie broth&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp tomato paste&lt;/li&gt;&#xA;&lt;li&gt;5 cloves of garlic, minced&lt;/li&gt;&#xA;&lt;li&gt;1/2 inch of ginger, minced&lt;/li&gt;&#xA;&lt;li&gt;1 tsp ground black pepper&lt;/li&gt;&#xA;&lt;li&gt;1/2 tsp ground cinnamon&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp ground cumin&lt;/li&gt;&#xA;&lt;li&gt;1 tsp ground paprika&lt;/li&gt;&#xA;&lt;li&gt;1/2 tsp cardamom&lt;/li&gt;&#xA;&lt;li&gt;1/2 tsp ground cloves&lt;/li&gt;&#xA;&lt;li&gt;1 tsp chili powder (add more for spice preference)&lt;/li&gt;&#xA;&lt;li&gt;1 tsp tumeric&lt;/li&gt;&#xA;&lt;li&gt;2 bay leaves&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp chicken-less better than bouillon (optional)&lt;/li&gt;&#xA;&lt;li&gt;1 diced sweet onion&lt;/li&gt;&#xA;&lt;li&gt;2-3 cups cubed butternut squash&lt;/li&gt;&#xA;&lt;li&gt;2 chopped zucchini&lt;/li&gt;&#xA;&lt;li&gt;2 cubed potatoes&lt;/li&gt;&#xA;&lt;li&gt;2 diced carrots&lt;/li&gt;&#xA;&lt;li&gt;2 cans of cannolini, butter, or pinto beans (drained)&lt;/li&gt;&#xA;&lt;li&gt;1 can diced tomatoes&lt;/li&gt;&#xA;&lt;li&gt;1 cup uncooked pearled barley&lt;/li&gt;&#xA;&lt;li&gt;Salt&lt;/li&gt;&#xA;&lt;li&gt;olive oil or any other neutral oil&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Begin heating about a tbsp of oil in a large pot, then add in the diced onion with a pinch of salt to help draw out the moisture. When the onion is translucent, add the garlic and ginger and cook until the onion begins to caramelize (the edges are nice and brown). Now make a little well in the onion to add the tomato paste. This will let it caramelize a bit. Add all the spices on top of the onion. They should become fragrant. After about 2-3 minutes, mix everything together. Add the bouillon if you have it.&lt;/li&gt;&#xA;&lt;li&gt;Add the butternut squash, potatoes, zucchini, and carrots. I have also been known to add green beans at this step. Mix and let sauté for about 5 minutes. Now add the beans and canned tomatoes (with liquid). Let it cook for another few minutes until everything is more combined. Add the box of broth with the barley and mix&lt;/li&gt;&#xA;&lt;li&gt;Taste and add salt and more spices as desired. Cook for about an hour or until the barley is cooked. You may have to add more water during this step, so be sure to check every once in a while.&lt;/li&gt;&#xA;&lt;li&gt;Stew is stewed. Top with cheese and or nutritional yeast and eat. Can be frozen or stored in the fridge until you realize it&amp;rsquo;s been in there for too long.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <content:encoded><![CDATA[<p>Veggie stew:</p>
+<p>Ingredients:
+(There should be a roughly even amount of each veggie)
+(I do not measure the spices. You should add as much as your soul asks of you.)</p>
+<ul>
+<li>1 carton veggie broth</li>
+<li>1 tbsp tomato paste</li>
+<li>5 cloves of garlic, minced</li>
+<li>1/2 inch of ginger, minced</li>
+<li>1 tsp ground black pepper</li>
+<li>1/2 tsp ground cinnamon</li>
+<li>1 tbsp ground cumin</li>
+<li>1 tsp ground paprika</li>
+<li>1/2 tsp cardamom</li>
+<li>1/2 tsp ground cloves</li>
+<li>1 tsp chili powder (add more for spice preference)</li>
+<li>1 tsp tumeric</li>
+<li>2 bay leaves</li>
+<li>1 tbsp chicken-less better than bouillon (optional)</li>
+<li>1 diced sweet onion</li>
+<li>2-3 cups cubed butternut squash</li>
+<li>2 chopped zucchini</li>
+<li>2 cubed potatoes</li>
+<li>2 diced carrots</li>
+<li>2 cans of cannolini, butter, or pinto beans (drained)</li>
+<li>1 can diced tomatoes</li>
+<li>1 cup uncooked pearled barley</li>
+<li>Salt</li>
+<li>olive oil or any other neutral oil</li>
+</ul>
+<ol>
+<li>Begin heating about a tbsp of oil in a large pot, then add in the diced onion with a pinch of salt to help draw out the moisture. When the onion is translucent, add the garlic and ginger and cook until the onion begins to caramelize (the edges are nice and brown). Now make a little well in the onion to add the tomato paste. This will let it caramelize a bit. Add all the spices on top of the onion. They should become fragrant. After about 2-3 minutes, mix everything together. Add the bouillon if you have it.</li>
+<li>Add the butternut squash, potatoes, zucchini, and carrots. I have also been known to add green beans at this step. Mix and let sauté for about 5 minutes. Now add the beans and canned tomatoes (with liquid). Let it cook for another few minutes until everything is more combined. Add the box of broth with the barley and mix</li>
+<li>Taste and add salt and more spices as desired. Cook for about an hour or until the barley is cooked. You may have to add more water during this step, so be sure to check every once in a while.</li>
+<li>Stew is stewed. Top with cheese and or nutritional yeast and eat. Can be frozen or stored in the fridge until you realize it&rsquo;s been in there for too long.</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Gronion Ramen</title>
+      <link>http://localhost:1313/recipes/gronion/</link>
+      <pubDate>Tue, 12 Aug 2025 14:55:29 -0500</pubDate><author>samanthagward@gmail.com (Samantha Ward)</author>
+      <guid>http://localhost:1313/recipes/gronion/</guid>
+      <description>&lt;p&gt;This is &lt;em&gt;loosely&lt;/em&gt; based off shoyu ramen, which is made with a light, soy sauce-based broth. Gronion means green onion or spring onion.&lt;/p&gt;&#xA;&lt;p&gt;For the gronion oil:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 green onions, cut into long strips, but separate the green from the white&lt;/li&gt;&#xA;&lt;li&gt;1 garlic clove, sliced thin&lt;/li&gt;&#xA;&lt;li&gt;pinch of salt&lt;/li&gt;&#xA;&lt;li&gt;red chili flakes (optional)&lt;/li&gt;&#xA;&lt;li&gt;2-3 tbsp neutral oil (I use avocado)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For the broth:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 small piece of kombu seaweed - rinsed and soaked overnight&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp of better than bouillon no-chicken broth (optional)&lt;/li&gt;&#xA;&lt;li&gt;3 cups of veggie broth&lt;/li&gt;&#xA;&lt;li&gt;1 tbsp soy sauce&lt;/li&gt;&#xA;&lt;li&gt;1 dollop of honey or agave (to taste)&lt;/li&gt;&#xA;&lt;li&gt;1 - 2 cracks of black pepper&lt;/li&gt;&#xA;&lt;li&gt;1 pinch msg&lt;/li&gt;&#xA;&lt;li&gt;1/2 tsp tomato paste&lt;/li&gt;&#xA;&lt;li&gt;1 shake garlic powder&lt;/li&gt;&#xA;&lt;li&gt;4-5 shiitake mushrooms&lt;/li&gt;&#xA;&lt;li&gt;1 shake onion powder&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Stuff to put in the broth:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This is <em>loosely</em> based off shoyu ramen, which is made with a light, soy sauce-based broth. Gronion means green onion or spring onion.</p>
+<p>For the gronion oil:</p>
+<ul>
+<li>2 green onions, cut into long strips, but separate the green from the white</li>
+<li>1 garlic clove, sliced thin</li>
+<li>pinch of salt</li>
+<li>red chili flakes (optional)</li>
+<li>2-3 tbsp neutral oil (I use avocado)</li>
+</ul>
+<p>For the broth:</p>
+<ul>
+<li>1 small piece of kombu seaweed - rinsed and soaked overnight</li>
+<li>1 tbsp of better than bouillon no-chicken broth (optional)</li>
+<li>3 cups of veggie broth</li>
+<li>1 tbsp soy sauce</li>
+<li>1 dollop of honey or agave (to taste)</li>
+<li>1 - 2 cracks of black pepper</li>
+<li>1 pinch msg</li>
+<li>1/2 tsp tomato paste</li>
+<li>1 shake garlic powder</li>
+<li>4-5 shiitake mushrooms</li>
+<li>1 shake onion powder</li>
+</ul>
+<p>Stuff to put in the broth:</p>
+<ul>
+<li>soft-boiled eggs</li>
+<li>fresh ramen noodles, cooked (or dried)</li>
+<li>cubed firm tofu</li>
+<li>steamed corn</li>
+<li>sesame seeds</li>
+<li>Sautéed Oyster mushrooms/shiitake/enoki/button (what have you)</li>
+<li>Whatever else you want</li>
+</ul>
+<ol>
+<li>Start the broth by adding the veggie broth to a pot and bringing it to a simmer. Add the kombu and let simmer for about 10 minutes. Remove the kombu and add all the rest of the ingredients. Mix and let simmer while you prepare whatever you wish to add (noodles, corn, whatever else).</li>
+<li>In a small pot or pan, add oil until sizzling hot. Add the whites of the green onion first, adding the salt, garlic, and red chili flakes (if using). Let sizzle for about a minute or two. Add the greens and let sizzle for about a minute before taking off the heat. This should be fragrant and fill your kitchen with green onion goodness.</li>
+<li>Assemble the ramen by adding the broth to a bowl, then toppings and mix-ins. Finally, top with the green onion oil. Devour.</li>
+</ol>
+<p>Notes: Normally, I simmer the tofu in the broth as well, but sautéeing is also delicious.
+If you are unsure what to do with the kombu, I normally feed it to my roommate, who enjoys leaves. If you do not have such a roommate, you can rinse it and reuse it by drying then soaking before the second use. If you do not wish to go through the trouble, kombu stock powder works just as well. Or, you can omit the kombu entirely for about as good a broth.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

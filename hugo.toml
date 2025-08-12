@@ -1,7 +1,7 @@
 # Basic config
 baseURL = "https://example.com"
 theme = "hugo-bearcub"
-copyright = "Samantha Ward(CC BY 4.0)"
+copyright = "Samantha Ward (CC BY 4.0)"
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO
@@ -26,29 +26,25 @@ enableRobotsTXT = true
         pageRef = "/"
         weight = 1
     [[menu.main]] 
-        name = "About Me"
-        pageRef = "/about"
+        name = "Math"
+        pageRef = "/blog/"
         weight = 2
     [[menu.main]] 
-        name = "Pictures of Cats and Nature"
-        pageRef = "/pics"
+        name = "Recipes"
+        pageRef = "/recipes/"
         weight = 3
     [[menu.main]] 
-        name = "Recipes for Survival"
-        pageRef = "/recipes/"
+        name = "Books"
+        pageRef = "/booklist.md"
         weight = 4
     [[menu.main]] 
         name = "Tea Journal"
         pageRef = "/tea/"
         weight = 5
     [[menu.main]] 
-        name = "Math and Thoughts"
-        pageRef = "/blog/"
+        name = "Pics"
+        pageRef = "/pics"
         weight = 6
-    [[menu.main]] 
-        name = "Book List"
-        pageRef = "/books/"
-        weight = 7
 
 [params]
   # The description of your website
@@ -76,6 +72,14 @@ enableRobotsTXT = true
   # have the theme simply not show any link
   hideUntranslated = false
 
+[languages]
+  [languages.en]
+    title = "Sam's Blog"
+    languageName = "en-US 🇺🇸"
+    LanguageCode = "en-US"
+    contentDir = "content"
+    [languages.en.params]
+      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 
   # Social media. Delete any item you aren't using to make sure it won't show up
